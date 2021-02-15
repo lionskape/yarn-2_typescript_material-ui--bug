@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es2020",
+    "lib": [
+      "DOM",
+      "es2020"
+    ],
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+  },
+  "include": [
+    "src"
+  ]
+}
